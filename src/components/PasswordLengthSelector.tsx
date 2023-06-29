@@ -12,6 +12,7 @@ const PasswordLengthSelector = () => {
           name="length"
           style={{ flexGrow: "1", margin: "0px .5rem " }}
           id="password-length"
+          onChange={() => {}}
         />
         <span>20</span>
       </div>
