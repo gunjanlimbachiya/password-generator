@@ -8,10 +8,10 @@ const PasswordLengthSelector = () => {
         <input
           type="range"
           min="4"
-          max="205"
+          max="20"
           name="length"
           style={{ flexGrow: "1", margin: "0px .5rem " }}
-          id="password-length2"
+          id="password-length"
         />
         <span>20</span>
       </div>
